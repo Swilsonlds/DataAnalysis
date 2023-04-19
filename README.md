@@ -2,8 +2,6 @@ The purpose of this project was for me to gain some exposure to the pandas libra
 
 Specifically, I focused on the data analyzing capabilities of the library. I imported a CSV from [kaggle.com](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?select=rotten_tomatoes_movies.csv) that contained a number of the top rated movies released in recent years according to rotten tomato.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/iefpBShk77A)
 
 # Data Analysis Results
